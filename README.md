@@ -1,6 +1,8 @@
 # Flat Earth Books
 
-A curated list of Flat Earth books:
+A curated list of Flat Earth books:.
+
+> "The act of spreading knowledge is one of the highest expressions of unconditional love that one can ever give" *~unknown*
 
 1. Adrian Galilio Lady Blount
 1. Architecture mysticism and myth
@@ -120,3 +122,4 @@ A curated list of Flat Earth books:
 1. Zetetic Philosophy Parallax
 1. Zetetic The Vol 1 No 1 July 1872
 1. Zetetic The Vol 2 No 8 and 9 October November 1873
+
